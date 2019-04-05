@@ -9,7 +9,7 @@
         "icon",
         "feather"
     ],
-    "main": "lib/vue-feather-plugin.esm.js",
+    "main": "lib/vue-feather-plugin.js",
     "files": [
         "lib"
     ],
@@ -20,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/qinshenxue/vui-icon.git"
+        "url": "git+https://github.com/ELFoglalt/vui-icon.git"
     },
     "author": "https://github.com/qinshenxue",
     "license": "MIT",
