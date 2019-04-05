@@ -1,3 +1,5 @@
+> Non esm fork of [vue-icon](https://github.com/qinshenxue/vue-icon). This fork is was created to work around import issues, such as [#2](https://github.com/qinshenxue/vue-icon/issues/2).
+
 # vue-icon
 [![https://img.shields.io/npm/v/vue-icon.svg](https://img.shields.io/npm/v/vue-icon.svg)](https://www.npmjs.com/package/vue-icon)
 [![https://img.shields.io/npm/dm/vue-icon.svg](https://img.shields.io/npm/dm/vue-icon.svg)](https://www.npmjs.com/package/vue-icon)
